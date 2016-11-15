@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5728F7011D6B4D0A00014D42 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5728F7001D6B4D0A00014D42 /* CameraViewController.swift */; };
 		CC2647FD1D6A9C2F00C9E5B1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC2647FC1D6A9C2F00C9E5B1 /* AppDelegate.swift */; };
 		CC2647FF1D6A9C2F00C9E5B1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC2647FE1D6A9C2F00C9E5B1 /* ViewController.swift */; };
 		CC2648021D6A9C2F00C9E5B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC2648001D6A9C2F00C9E5B1 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5728F7001D6B4D0A00014D42 /* CameraViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		CC2647F91D6A9C2F00C9E5B1 /* Detector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Detector.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC2647FC1D6A9C2F00C9E5B1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CC2647FE1D6A9C2F00C9E5B1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				CC2647FC1D6A9C2F00C9E5B1 /* AppDelegate.swift */,
 				CC2647FE1D6A9C2F00C9E5B1 /* ViewController.swift */,
 				CC2648001D6A9C2F00C9E5B1 /* Main.storyboard */,
+				5728F7001D6B4D0A00014D42 /* CameraViewController.swift */,
 				CC2648031D6A9C2F00C9E5B1 /* Assets.xcassets */,
 				CC2648051D6A9C2F00C9E5B1 /* LaunchScreen.storyboard */,
 				CC2648081D6A9C2F00C9E5B1 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				CC2647FF1D6A9C2F00C9E5B1 /* ViewController.swift in Sources */,
 				CC2647FD1D6A9C2F00C9E5B1 /* AppDelegate.swift in Sources */,
+				5728F7011D6B4D0A00014D42 /* CameraViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,6 +292,7 @@
 				CC26480D1D6A9C2F00C9E5B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
